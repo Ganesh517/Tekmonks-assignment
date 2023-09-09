@@ -1,5 +1,5 @@
 # Tekmonks-assignment
-#index.html
+# index.html
 ```html
 {% block content %}
 <div style="display: flex;
@@ -26,9 +26,9 @@ height: 50px;">
 </div>
 {% endfor %}
 {% endblock %}
-``
+```
 
-#app.py
+# app.py
 ```python
 from flask import Flask, render_template
 from newsapi import NewsApiClient
@@ -58,3 +58,6 @@ if __name__ == '__main__':
    app.run()
 
 ```
+
+# OUTPUT
+
