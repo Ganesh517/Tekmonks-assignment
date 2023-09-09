@@ -1,4 +1,6 @@
-# Tekmonks-assignment{% block content %}
+# Tekmonks-assignment
+```html
+{% block content %}
 <div style="display: flex;
 justify-self: center;
 align-items: center;
@@ -23,6 +25,7 @@ height: 50px;">
 </div>
 {% endfor %}
 {% endblock %}
+```
 
 #index.html
 ```python
