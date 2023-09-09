@@ -60,4 +60,5 @@ if __name__ == '__main__':
 ```
 
 # OUTPUT
+![Screenshot 2023-09-09 133906](https://github.com/Ganesh517/Tekmonks-assignment/assets/75235006/109ab113-c175-4b70-9b16-999cfa145212)
 
